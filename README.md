@@ -5,25 +5,39 @@ This code explains the implementation of a hospital management system using Arra
 This Hospital management application offers the following operations.
 
 Adding a patient record
+
 Updating an existing patient record
+
 Deleting a patient record
+
 Fetching all the patient records in order.
 
 Patient records have been contained the following ;
 
 Name 
+
 age
+
 gender
-Address 
+
+Address
+
 Email 
+
 Phone number 
+
 join date
+
 
 
 
 I have used Maven build type to create this project:
    Maven build/deploy/test scripts
+   
    Maven library configurations
+   
    IDE- ECLIPSE IDE(1.8)
+   
+   
 
 
